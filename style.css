@@ -7,13 +7,14 @@
     --black: #000814;
     --white: #fffcf2 ;
     --red:#ff4040;
+    --green: #89d631;
 }
 html{
     font-size: 62.5%;
     font-family: "Poppins", sans-serif;
 }
 body{
-    background: var(--red);
+    background: var(--green);
     text-align: center;
     display: flex;
     flex-direction: column;
